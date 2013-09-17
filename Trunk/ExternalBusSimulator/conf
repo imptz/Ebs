@@ -1,0 +1,14 @@
+<com_port name="com3"/>
+
+<bk16 address="22"/>
+
+<rpk address="4">
+ <pr address="1"/>
+ <pr address="2"/>
+ <pr address="5"/>
+ <zatvor address="1"/>
+ <zatvor address="2"/>
+ <zatvor address="5"/>
+</rpk>
+
+<monitoring address="8"/>
